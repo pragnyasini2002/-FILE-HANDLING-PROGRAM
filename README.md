@@ -42,3 +42,5 @@
   Use of error handling in file operations
   Improved coding practices in C programming, particularly in using functions and control structures.
 
+# Output :
+<img width="1481" height="761" alt="Image" src="https://github.com/user-attachments/assets/3d3c2cbe-c57b-4126-9682-966d2647ce07" />
